@@ -1,0 +1,68 @@
+# 秋月風夏（CV:Lynn） / The fallen moon – Fair wind
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+It's always...
+Because it's always I try my way
+
+Sawagitateru mune no kawaku kodou mo
+Shinjitai mono ni sugaru kokyuu mo
+I hear my voice in the cloud
+Gomakashite tsunagatteitainda
+
+Akiramete tachidomatta mama de
+Boku wa mada boku ni narikirezu ni
+I've found no words
+Furikaetteshimau kedo
+
+Tawai nai sonna boku o mada shinjiteirunda
+Furueru mama ashi o fumidashite
+'Cause I don't wanna be a looser when I used to be
+Tokihanatareta tobira no mukou e hikari wa sashite
+
+Tashikameteitai yo nante
+Doko ni hisondeirundemo nakute
+Mawaridashita fair wind still be destination
+Mazu wa seorii o nugisuteteikou ka
+
+Kowakunari fusaida shinjitsu mo
+Boku to iu sono kachi mo
+Up to fair wind gonna true location
+Kaikaburinagara hikizuridashiteikunda
+Kaze o yonde... all the way around
+
+Jizai ni katachi o kaeteku jiyuu mo
+Genjitsu o sarakedashita kibou mo
+I hear your voice in my heart
+Sou wakatteiru sa wakatteirunda
+
+Moshi sora ga ao janakunattemo
+Kurayami ga subete o tsutsundemo
+Call my name
+Mada boku de iru no nara
+
+Fuan de yuraideita
+Yowai kokoro ni sasu hikari no zanzou to
+Kono te no kasuka na nukumori o
+Riding on the wind
+Itsuka mita kuusou o kasanete
+
+So I'd never known 'cause blind myself
+Kono sekai o tobikau uso no kimegoto o
+But I know it's easy to escape
+Mada mayoi wa...
+And I know it's hard to erase away
+Soredemo nariyamanu oto ni...
+
+Tashikameteitai yo nante
+Doko ni hisondeirundemo nakute
+Mawaridashita fair wind still be destination
+Koukai o sakimawari shite tatsu no sa
+
+Asu ga kowakunattatte
+Boku to iu sono subete
+Up to fair wind gonna true location
+Shinjiteta boku o hikizuridashiteikunda
+Kaze o yonde... all the way around
+```
