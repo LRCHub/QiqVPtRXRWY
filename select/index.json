@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Fair wind",
+  "base_artist": "秋月風夏（CV:Lynn） / The fallen moon",
+  "createdAt": "2025-12-23T23:44:55.061571Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fair Wind",
+      "artist": "Lisa Lynne",
+      "has_synced": false,
+      "path": "select/01_Fair_Wind_Lisa_Lynne.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fair wind",
+      "artist": "秋月風夏(CV:Lynn) / The fallen moon",
+      "has_synced": true,
+      "path": "select/02_Fair_wind_秋月風夏(CV_Lynn)___The_fallen_moon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "FAIR WIND",
+      "artist": "N・O・V・A",
+      "has_synced": true,
+      "path": "select/03_FAIR_WIND_N・O・V・A.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fair wind",
+      "artist": "秋月風夏(CV:Lynn)",
+      "has_synced": true,
+      "path": "select/04_Fair_wind_秋月風夏(CV_Lynn).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fair Wind",
+      "artist": "Lynne, Lisa",
+      "has_synced": false,
+      "path": "select/05_Fair_Wind_Lynne,_Lisa.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fair wind",
+      "artist": "秋月風夏(CV:Lynn) / The fallen moon",
+      "has_synced": false,
+      "path": "select/pl_01_Fair_wind_秋月風夏(CV_Lynn)___The_fallen_moon.txt"
+    }
+  ]
+}
